@@ -1,7 +1,7 @@
 # Dashboard_Produccion
 Paneles de Control sobre Producción
 
-## Introduction
+## Introducción
 Proyecto de una serie de prácticas realizadas con diferentes programas para la realización de Paneles de Control.
 
 Actualmente esta realizado con Excel y Power BI.
