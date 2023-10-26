@@ -36,3 +36,9 @@ A partir de estos datos se van realizar dos paneles de control interactivo para 
 <img src="Power BI/Informe_Produccion_PowerBI-2.PNG" style="display: block; margin: auto;">
 
 [Archivo Power BI](https://github.com/ntr94/Dashboard_Produccion/blob/main/Power%20BI/Informe_Produccion_PowerBI.pbix)
+
+## Dashboard relacionados
+
+[Ventas](https://github.com/ntr94/Dashboard_Ventas)
+
+[Finanzas](https://github.com/ntr94/Dashboard_Finanzas)
